@@ -46,7 +46,7 @@ To visualise the results, you can use the provided gnuplot scripts. Make sure yo
 ```bash
 gnuplot plot_initial
 gnuplot plot_final
-gnuplot plot_average
+gnuplot plot_vert
 ```
 
 Alternatively, you can use:

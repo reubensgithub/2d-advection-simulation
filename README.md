@@ -12,7 +12,7 @@ To compile and run the simulation, the following tools are required:
 
 - **Linux** or another POSIX-compliant operating system
 - **GCC** with OpenMP support
-- **Gnuplot** (for visualising the results)
+- **gnuplot** (for visualising the results)
 
 ### Compilation Instructions
 
